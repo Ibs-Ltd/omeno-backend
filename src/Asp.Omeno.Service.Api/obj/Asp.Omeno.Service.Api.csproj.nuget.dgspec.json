@@ -1,0 +1,466 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Api\\Asp.Omeno.Service.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Api\\Asp.Omeno.Service.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Api\\Asp.Omeno.Service.Api.csproj",
+        "projectName": "Asp.Omeno.Service.Api",
+        "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Api\\Asp.Omeno.Service.Api.csproj",
+        "packagesPath": "C:\\Users\\veerendra.babu\\.nuget\\packages\\",
+        "outputPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\veerendra.babu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Infrastructure\\Asp.Omeno.Service.Infrastructure.csproj": {
+                "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Infrastructure\\Asp.Omeno.Service.Infrastructure.csproj"
+              },
+              "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Persistence\\Asp.Omeno.Service.Persistence.csproj": {
+                "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Persistence\\Asp.Omeno.Service.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Application\\Asp.Omeno.Service.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Application\\Asp.Omeno.Service.Application.csproj",
+        "projectName": "Asp.Omeno.Service.Application",
+        "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Application\\Asp.Omeno.Service.Application.csproj",
+        "packagesPath": "C:\\Users\\veerendra.babu\\.nuget\\packages\\",
+        "outputPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\veerendra.babu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Common\\Asp.Omeno.Service.Common.csproj": {
+                "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Common\\Asp.Omeno.Service.Common.csproj"
+              },
+              "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Domain\\Asp.Omeno.Service.Domain.csproj": {
+                "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Domain\\Asp.Omeno.Service.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.5.7.4, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[39.33.0, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Common\\Asp.Omeno.Service.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Common\\Asp.Omeno.Service.Common.csproj",
+        "projectName": "Asp.Omeno.Service.Common",
+        "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Common\\Asp.Omeno.Service.Common.csproj",
+        "packagesPath": "C:\\Users\\veerendra.babu\\.nuget\\packages\\",
+        "outputPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\veerendra.babu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Domain\\Asp.Omeno.Service.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Domain\\Asp.Omeno.Service.Domain.csproj",
+        "projectName": "Asp.Omeno.Service.Domain",
+        "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Domain\\Asp.Omeno.Service.Domain.csproj",
+        "packagesPath": "C:\\Users\\veerendra.babu\\.nuget\\packages\\",
+        "outputPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\veerendra.babu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IdentityServer4.AspNetIdentity": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Infrastructure\\Asp.Omeno.Service.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Infrastructure\\Asp.Omeno.Service.Infrastructure.csproj",
+        "projectName": "Asp.Omeno.Service.Infrastructure",
+        "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Infrastructure\\Asp.Omeno.Service.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\veerendra.babu\\.nuget\\packages\\",
+        "outputPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\veerendra.babu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Application\\Asp.Omeno.Service.Application.csproj": {
+                "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Application\\Asp.Omeno.Service.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Persistence\\Asp.Omeno.Service.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Persistence\\Asp.Omeno.Service.Persistence.csproj",
+        "projectName": "Asp.Omeno.Service.Persistence",
+        "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Persistence\\Asp.Omeno.Service.Persistence.csproj",
+        "packagesPath": "C:\\Users\\veerendra.babu\\.nuget\\packages\\",
+        "outputPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\veerendra.babu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Application\\Asp.Omeno.Service.Application.csproj": {
+                "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Application\\Asp.Omeno.Service.Application.csproj"
+              },
+              "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Domain\\Asp.Omeno.Service.Domain.csproj": {
+                "projectPath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Domain\\Asp.Omeno.Service.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "mlQHY3kd0JoUS4qXpiq7/INJOA0d2/nOy5AvPWvKY/oY9UymJLmxBicYza+LwIt/1UjjpcTnER14ujvDVnvpuQ==",
+  "success": true,
+  "projectFilePath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Domain\\Asp.Omeno.Service.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\identityserver4\\3.1.2\\identityserver4.3.1.2.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\identityserver4.aspnetidentity\\3.1.2\\identityserver4.aspnetidentity.3.1.2.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\identityserver4.storage\\3.1.2\\identityserver4.storage.3.1.2.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.5.0\\system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpA+ela4IwscLmmiAHn3hhpk5MuQr7+t8pNb1WsTuawAC9iLy4OcTAB5cpxJvqUUhVKbDPsM/h6Efg9QRrz3Ug==",
+  "success": true,
+  "projectFilePath": "D:\\Important\\omeno_proj\\omeno_proj_latest\\omeno\\src\\Asp.Omeno.Service.Common\\Asp.Omeno.Service.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\veerendra.babu\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

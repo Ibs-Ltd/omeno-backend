@@ -1,0 +1,14 @@
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Application.deps.json
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Application.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Application.pdb
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Common.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Domain.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Common.pdb
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Domain.pdb
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Application.csprojAssemblyReference.cache
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Application.AssemblyInfoInputs.cache
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Application.AssemblyInfo.cs
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Application.csproj.CoreCompileInputs.cache
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Application.csproj.CopyComplete
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Application.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Application\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Application.pdb

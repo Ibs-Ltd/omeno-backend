@@ -1,0 +1,9 @@
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Common\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Common.deps.json
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Common\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Common.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Common\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Common.pdb
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Common\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Common.csprojAssemblyReference.cache
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Common\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Common.AssemblyInfoInputs.cache
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Common\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Common.AssemblyInfo.cs
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Common\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Common.csproj.CoreCompileInputs.cache
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Common\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Common.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Common\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Common.pdb

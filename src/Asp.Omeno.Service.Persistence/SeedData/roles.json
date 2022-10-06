@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "a7f52988-2b06-422f-bd64-0e625f0e2f18",
+    "Name": "Administrator",
+    "NormalizedName": "ADMINISTRATOR",
+    "ConcurrencyStamp": "7a19d1db-072a-44a3-b5b8-673127cb26db"
+  },
+  {
+    "Id": "44541f29-3164-466f-ba0e-a4f07c1887b7",
+    "Name": "Customer",
+    "NormalizedName": "CUSTOMER",
+    "ConcurrencyStamp": "54064151-869c-4c2a-b8fa-afbefaa65b43"
+  },
+  {
+    "Id": "0955b6a3-3235-4fd0-9bf4-81ee1acc6cd1",
+    "Name": "Helper",
+    "NormalizedName": "HELPER",
+    "ConcurrencyStamp": "ef98cc59-3a8c-45f0-94e3-ea88755b1551"
+  }
+]

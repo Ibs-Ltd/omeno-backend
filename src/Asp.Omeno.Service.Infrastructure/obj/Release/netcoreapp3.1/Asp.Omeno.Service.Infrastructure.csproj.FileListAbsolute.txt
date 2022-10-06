@@ -1,0 +1,16 @@
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.deps.json
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.pdb
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Application.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Common.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Domain.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Application.pdb
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Common.pdb
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\bin\Release\netcoreapp3.1\Asp.Omeno.Service.Domain.pdb
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.csprojAssemblyReference.cache
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.AssemblyInfoInputs.cache
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.AssemblyInfo.cs
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.csproj.CopyComplete
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.dll
+D:\Important\omeno_proj\omeno_proj_latest\omeno\src\Asp.Omeno.Service.Infrastructure\obj\Release\netcoreapp3.1\Asp.Omeno.Service.Infrastructure.pdb

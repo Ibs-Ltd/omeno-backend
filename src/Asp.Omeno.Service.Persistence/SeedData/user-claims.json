@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "1",
+    "UserId": "8237efce-4c74-4cff-9830-d5769f3c1f2c",
+    "ClaimType": "firstName",
+    "ClaimValue": "Administrator"
+  },
+  {
+    "Id": "2",
+    "UserId": "8237efce-4c74-4cff-9830-d5769f3c1f2c",
+    "ClaimType": "lastName",
+    "ClaimValue": "User"
+  },
+  {
+    "Id": "3",
+    "UserId": "8237efce-4c74-4cff-9830-d5769f3c1f2c",
+    "ClaimType": "http://schemas.microsoft.com/ws/2008/06/identity/claims/role",
+    "ClaimValue": "Administrator"
+  },
+  {
+    "Id": "4",
+    "UserId": "8237efce-4c74-4cff-9830-d5769f3c1f2c",
+    "ClaimType": "userId",
+    "ClaimValue": "8237efce-4c74-4cff-9830-d5769f3c1f2c"
+  },
+  {
+    "Id": "5",
+    "UserId": "8237efce-4c74-4cff-9830-d5769f3c1f2c",
+    "ClaimType": "userName",
+    "ClaimValue": "admin"
+  }
+]
